@@ -13,3 +13,7 @@ The front-end assumes sonarqube web server is running at `localhost:9000`
 npm install
 npm start
 ```
+
+## Config
+
+Hardcoded user token is used in both `App.js` and `Project.js`, must be configed before usable
